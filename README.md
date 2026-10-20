@@ -4,7 +4,7 @@
 
 Soy Data Analyst con formación en Comercio Internacional y experiencia administrativa y contable. Aquí reúno mis proyectos de análisis de datos: cada uno explica el problema de negocio, las herramientas usadas y los resultados.
 
-[LinkedIn]([https://www.linkedin.com/in/sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso-1313bb257/)) · [Perfil de GitHub](https://github.com/SaydeReynoso) · saydegrm@hotmail.com
+[LinkedIn](https://www.linkedin.com/in/sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso-1313bb257/) · [Perfil de GitHub](https://github.com/SaydeReynoso) · saydegrm@hotmail.com
 
 ## 🛠️ Herramientas
 
@@ -35,4 +35,4 @@ Cada proyecto sigue esta estructura: problema → datos → metodología → her
 
 ## 📫 Contacto
 
-¿Quieres comentar alguno de mis proyectos o darme feedback? Escríbeme por [LinkedIn]([https://www.linkedin.com/in/sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso-1313bb257/)).
+¿Quieres comentar alguno de mis proyectos o darme feedback? Escríbeme por [LinkedIn](https://www.linkedin.com/in/sayde-reynoso](https://www.linkedin.com/in/sayde-reynoso-1313bb257/)).
