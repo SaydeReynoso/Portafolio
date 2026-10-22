@@ -18,10 +18,10 @@ Python · pandas · NumPy · SQL · Excel · Power BI · Tableau
 - **Resultado:** análisis de 177,527 órdenes con 51.99 M de revenue y 8.86 M de profit, con ticket promedio y productos destacados.
 - **Tipo:** proyecto del bootcamp TripleTen.
 
-### 2. [Análisis de Ingresos por País y Categoría](https://github.com/SaydeReynoso/An-lisis-Comercial-Inmobiliario)
-- **Problema:** entender qué mercados y categorías concentran el revenue y el profit del negocio.
-- **Herramientas:** Python, pandas, Jupyter Notebook.
-- **Resultado:** comparación del desempeño por país y categoría, con conclusiones orientadas a negocio.
+### 2. [Análisis Comercial Inmobiliario](https://github.com/SaydeReynoso/analisis-comercial-inmobiliario)
+- **Problema:** evaluar el desempeño comercial de una inmobiliaria para entender su crecimiento, rentabilidad y comportamiento de clientes.
+- **Herramientas:** Power BI, Jupyter Notebook.
+- **Resultado:** dashboard con 8,500 ventas (2023–2024), $6,012 M de ingreso y crecimiento de 11.14% YoY. El canal Corredor concentra el 73% del ingreso y el 77% de los clientes recompra.
 - **Tipo:** proyecto del bootcamp TripleTen.
 
 ### 3. Próximamente: proyectos propios
